@@ -2,7 +2,8 @@
 A machine learning model was developed from readily accessible literature examples to predict the yield of a generally disfavored chemical transformation and guide the total synthesis of complex small molecules.
 
 
-Description
+Description:
+
 This code uses a NNET model to predict the yield of 6-endo-trig radical cyclization reactions.  Descriptors were extracted with Python scripts (included in the compressed folder “python scripts for descriptor extraction”). The code for the training and testing of other models such as: SIMPLS, KNN, Random Forest, Treebag are included in “other models.R”.
 
 Instructions for Using “6-endo-radical NNET model.R”
